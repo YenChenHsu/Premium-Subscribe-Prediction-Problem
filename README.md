@@ -14,3 +14,6 @@ We obtained top 5 features, including 'songsListened', 'delta_avg_friend_age','d
 
 # Result Report
 Our business report can be found in the executive summary pdf, in conclusion, with our predictive model (decision tree), the customer conversion rate increases by 116% after model implementation, and the total marketing cost can be reduced by 53%. 
+
+# Contributor
+Yen Chen Hsu, Tiffany Chen, Thomas Farrell, Ameya Rahurkar, Avanindra Singh
